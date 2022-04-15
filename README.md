@@ -2,9 +2,6 @@
 
 ### ¡Hola! Me LLamo Carmela Garcilazo Actualmente Estoy Estudiando Ingrenieria En Sistemas Anteriormente Estudiaba Ciencias De La Computacion
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-
 
 ## Lenguaje en Los Que Puedo Programar
 
