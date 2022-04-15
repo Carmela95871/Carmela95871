@@ -1,6 +1,6 @@
 # ***¡Hola!***
 
-**¡Hola! Me LLamo Carmela Garcilazo Actualmente Estoy Estudiando Ingeniería En Sistemas Anteriormente Estudiaba Ciencias De La Computación**
+**¡Hola! Me LLamo Carmela Garcilazo Actualmente Estoy Estudiando Ingeniería En Sistemas Anteriormente Estudiaba Ciencias De La Computación.**
 
 
 ## ***Utilizo***
