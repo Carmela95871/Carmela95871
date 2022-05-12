@@ -19,6 +19,5 @@
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## ***Teko**
 
-![2022-05-12 14_22_29-Window](https://user-images.githubusercontent.com/89713648/168133809-04482152-d525-401d-afcd-d25ec1440b7b.png)
+
